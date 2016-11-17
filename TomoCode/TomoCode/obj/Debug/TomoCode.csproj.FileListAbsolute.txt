@@ -1,0 +1,36 @@
+c:\users\tomo\documents\visual studio 2015\Projects\TomoCode\TomoCode\bin\Debug\TomoCode.exe.config
+c:\users\tomo\documents\visual studio 2015\Projects\TomoCode\TomoCode\obj\Debug\TomoCode.csprojResolveAssemblyReference.cache
+c:\users\tomo\documents\visual studio 2015\Projects\TomoCode\TomoCode\obj\Debug\TomoCode.Properties.Resources.resources
+c:\users\tomo\documents\visual studio 2015\Projects\TomoCode\TomoCode\obj\Debug\TomoCode.csproj.GenerateResource.Cache
+c:\users\tomo\documents\visual studio 2015\Projects\TomoCode\TomoCode\bin\Debug\TomoCode.exe
+c:\users\tomo\documents\visual studio 2015\Projects\TomoCode\TomoCode\bin\Debug\TomoCode.pdb
+c:\users\tomo\documents\visual studio 2015\Projects\TomoCode\TomoCode\obj\Debug\TomoCode.exe
+c:\users\tomo\documents\visual studio 2015\Projects\TomoCode\TomoCode\obj\Debug\TomoCode.pdb
+C:\Users\tomo\Documents\Visual Studio 2015\Projects\TomoCode\TomoCode\obj\Debug\TomoCode.tomo_code.resources
+C:\Users\tomohiro\Desktop\TomoCode\TomoCode\bin\Debug\TomoCode.exe.config
+C:\Users\tomohiro\Desktop\TomoCode\TomoCode\obj\Debug\TomoCode.exe
+C:\Users\tomohiro\Desktop\TomoCode\TomoCode\obj\Debug\TomoCode.pdb
+C:\Users\tomohiro\Desktop\TomoCode\TomoCode\bin\Debug\TomoCode.exe
+C:\Users\tomohiro\Desktop\TomoCode\TomoCode\bin\Debug\TomoCode.pdb
+C:\Users\tomohiro\Desktop\TomoCode\TomoCode\obj\Debug\TomoCode.csprojResolveAssemblyReference.cache
+C:\Users\tomohiro\Desktop\TomoCode\TomoCode\obj\Debug\TomoCode.Properties.Resources.resources
+C:\Users\tomohiro\Desktop\TomoCode\TomoCode\obj\Debug\TomoCode.csproj.GenerateResource.Cache
+C:\Users\tomohiro\Desktop\TomoCode\TomoCode\obj\Debug\TomoCode.TomoCode.resources
+C:\Users\PC-201\TomoCode\TomoCode\bin\Debug\TomoCode.exe.config
+C:\Users\PC-201\TomoCode\TomoCode\obj\Debug\TomoCode.exe
+C:\Users\PC-201\TomoCode\TomoCode\obj\Debug\TomoCode.pdb
+C:\Users\PC-201\TomoCode\TomoCode\bin\Debug\TomoCode.exe
+C:\Users\PC-201\TomoCode\TomoCode\bin\Debug\TomoCode.pdb
+C:\Users\PC-201\TomoCode\TomoCode\obj\Debug\TomoCode.csprojResolveAssemblyReference.cache
+C:\Users\PC-201\TomoCode\TomoCode\obj\Debug\TomoCode.Properties.Resources.resources
+C:\Users\PC-201\TomoCode\TomoCode\obj\Debug\TomoCode.TomoCode.resources
+C:\Users\PC-201\TomoCode\TomoCode\obj\Debug\TomoCode.csproj.GenerateResource.Cache
+C:\Users\tomo\Documents\TomoCode\TomoCode\TomoCode\bin\Debug\TomoCode.exe.config
+C:\Users\tomo\Documents\TomoCode\TomoCode\TomoCode\obj\Debug\TomoCode.exe
+C:\Users\tomo\Documents\TomoCode\TomoCode\TomoCode\obj\Debug\TomoCode.pdb
+C:\Users\tomo\Documents\TomoCode\TomoCode\TomoCode\bin\Debug\TomoCode.exe
+C:\Users\tomo\Documents\TomoCode\TomoCode\TomoCode\bin\Debug\TomoCode.pdb
+C:\Users\tomo\Documents\TomoCode\TomoCode\TomoCode\obj\Debug\TomoCode.csprojResolveAssemblyReference.cache
+C:\Users\tomo\Documents\TomoCode\TomoCode\TomoCode\obj\Debug\TomoCode.Properties.Resources.resources
+C:\Users\tomo\Documents\TomoCode\TomoCode\TomoCode\obj\Debug\TomoCode.TomoCode.resources
+C:\Users\tomo\Documents\TomoCode\TomoCode\TomoCode\obj\Debug\TomoCode.csproj.GenerateResource.Cache
